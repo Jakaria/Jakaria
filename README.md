@@ -1,5 +1,5 @@
 # Introduction #
-I have an enthusiastic mindset about system architecture, site reliability engineering and devops which are partially overlapping domain in terms of tasks and responsibilities. I don't get tried thinking of finding a better solution & desiging for various kinds of business needs considering several factors like fault tolerance, scalability, performance, confidentiality.
+Driven by an enthusiastic mindset, I specialize in system architecture, site reliability engineering, and DevOps—three domains that share a commitment to optimizing business solutions through fault tolerance, scalability, performance, and confidentiality. Constantly seeking to design better solutions, I thrive on the challenges of meeting diverse business needs with innovative and efficient strategies.
 
 # Technical activites & experiences #
 - System design, architecture review considering the best available resources
